@@ -1,0 +1,7 @@
+semaphore.settings_form:
+  path: '/admin/config/system/semaphore'
+  defaults:
+    _title: 'semaphore settings'
+    _form: 'Drupal\semaphore\Form\SettingsForm'
+  requirements:
+    _permission: 'administer semaphore configuration'

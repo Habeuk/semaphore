@@ -1,0 +1,6 @@
+services:
+  semaphore.event_subscriber:
+    class: Drupal\semaphore\EventSubscriber\SemaphoreSubscriber
+    arguments: ['@messenger']
+    tags:
+      - { name: event_subscriber }

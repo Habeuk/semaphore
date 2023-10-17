@@ -1,0 +1,14 @@
+{
+    "name": "habeuk/semaphore",
+    "description": "Allows you to control access to resources",
+    "type": "drupal-custom-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kouwa stephane",
+            "email": "kksasteph888@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

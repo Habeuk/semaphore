@@ -1,0 +1,5 @@
+name: semaphore
+type: module
+description: Allows you to control access to resources
+package: Custom
+core_version_requirement: ^9 || ^10

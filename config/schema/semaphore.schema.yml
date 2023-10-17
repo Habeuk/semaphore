@@ -1,0 +1,8 @@
+# Schema for the configuration files of the semaphore module.
+semaphore.settings:
+  type: config_object
+  label: 'semaphore settings'
+  mapping:
+    example:
+      type: string
+      label: 'Example'
